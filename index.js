@@ -217,11 +217,6 @@
             this.reset();
         });
 
-        // Download CV
-        // document.getElementById('downloadCV').addEventListener('click', function(e) {
-        //     e.preventDefault();
-        //     alert('Please contact me directly for my CV.');
-        // });
 
         // Smooth scroll
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
